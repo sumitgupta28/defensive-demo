@@ -7,6 +7,10 @@ This DEMO project is used for running Chaos Experiment
 
 ## Chaos Experiments
 Set virtual environment in python and install `chaostoolkit-spring`
+
+- setup https://chaostoolkit.org/reference/usage/install/
+
+
 ```
 python3 -m venv ~/.venvs/chaostk
 source  ~/.venvs/chaostk/bin/activate
